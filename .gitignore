@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Compressed files
+*.gz
+*.zip
+*.tar
+*.tar.gz
+
+# Virtual environments
+.env
+
+# Large data files
+Lab1/tokens.txt
+lab2/subtitles.txt
